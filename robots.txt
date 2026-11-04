@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slep-sluzba-milan.vercel.app/sitemap.xml
